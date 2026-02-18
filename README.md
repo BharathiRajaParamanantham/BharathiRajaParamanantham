@@ -1,6 +1,6 @@
 ### Hi there, I'm Bharathi 👋
 
-I'm a Senior Full‑Stack Engineer and Data Engineering / MLOps practitioner, working mainly with Python, Java, React, and cloud‑native data platforms.
+I'm a Solution Architect/Senior Full‑Stack Engineer and Data Engineering / MLOps practitioner, working mainly with Python, Java, React, and cloud‑native data platforms.
 
 - 🔭 I’m currently working on:  
   - Data‑intensive applications using Python, React, and cloud services  
